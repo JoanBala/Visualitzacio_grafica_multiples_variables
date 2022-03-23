@@ -1,4 +1,4 @@
-# Visualitzacio_grafica_multiples_variables
+# visualitzacio_grafica_multiples_variables
 S03 T02: Visualització gràfica de Múltiples variables
 Pendent: Rebre una qualificació
 Descripció
